@@ -1,0 +1,14 @@
+﻿{
+  "servers": {
+    "GitHub": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    },
+    "SqlReadOnly": {
+      "type": "local",
+      "command": "placeholder-sql-mcp",
+      "args": [],
+      "env": {}
+    }
+  }
+}
