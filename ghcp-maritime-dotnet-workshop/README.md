@@ -147,6 +147,7 @@ dotnet build
 | 02 | `workshops/dotnet-maritime/02-prompt-craft.md` | GRACE, few-shot, prompt files | M2-A, M2-B, M2-C |
 | 03 | `workshops/dotnet-maritime/03-agents-and-review.md` | Agent mode, bug hunting, code review | M3-A, M3-B, M3-C |
 | 04 | `workshops/dotnet-maritime/04-enterprise-delivery.md` | Models, MCP, spec-driven, cloud agent | M4-A, M4-B, M4-C, M4-D |
+| Supplemental | `workshops/dotnet-maritime/05-github-push-and-pr-review.md` | Push a change, open a PR, and review with GitHub Copilot | - |
 
 ## Demo Markers (M1-A through M4-D)
 | Marker | Location | Session | Purpose | Copilot Feature |
