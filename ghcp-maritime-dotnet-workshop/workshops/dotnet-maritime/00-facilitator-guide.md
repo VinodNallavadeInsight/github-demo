@@ -97,4 +97,5 @@ Breaks: 10-15 min mid-session recommended.
 - `docs/demo-marker-index.md` - All markers
 - `docs/prompting-framework.md` - GRACE
 - `workshops/dotnet-maritime/` - All session guides
+- `workshops/dotnet-maritime/05-github-push-and-pr-review.md` - Supplemental GitHub push and Copilot PR review demo
 - `docs/backlog/` - Practice exercises
